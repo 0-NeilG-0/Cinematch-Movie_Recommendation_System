@@ -90,4 +90,4 @@ Your browser will automatically open a tab at `http://localhost:8501`.
 * **Custom Theme Switcher:** Fully styled toggle switch to flip between Dark and Light modes.
 * **Interactive Modal Overlays:** Click **View Details** on any card to inspect ratings, view counts, studios, directors, and plot synopses.
 
-* This project is completely vibecoded
+-----------------------------------------------------------**This project is completely vibe coded**---------------------------------------------------------

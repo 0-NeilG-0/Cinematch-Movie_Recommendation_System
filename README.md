@@ -1,4 +1,4 @@
-# 🎬 CineMatch — AI Movie Recommender
+# 🎬 CineMatch — Movie Recommendation System
 
 **CineMatch** is an interactive, content-based movie recommendation application built with Python and Streamlit. Designed to simplify content discovery, CineMatch leverages machine learning and metadata similarity algorithms to analyze film characteristics—such as genres, language, production studios, and directors—delivering instant, tailored film suggestions based on user preferences.
 
